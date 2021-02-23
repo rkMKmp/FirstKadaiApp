@@ -17,13 +17,13 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="初めてのアプリ" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WAY-Yb-xJX">
-                                <rect key="frame" x="146" y="169" width="123" height="67"/>
+                                <rect key="frame" x="97" y="165" width="220" height="58"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="50" id="3cW-7o-aWH"/>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="50" id="7t8-up-RUa"/>
                                     <constraint firstAttribute="width" constant="50" id="uRr-37-bKm"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="17"/>
+                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="30"/>
                                 <color key="textColor" systemColor="systemPurpleColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
